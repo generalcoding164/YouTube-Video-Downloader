@@ -1,7 +1,12 @@
 # Youtube Video Downloader
 
 I have written a code for downloading YouTube videos for free !!
-- while using the code, make sure you chose the right code of your os. :)
+**while using the code, make sure you chose the right code of your os. :)**
+
+Before using the code, make sure you have downloaded both pytube & pyttsx3 module from pip package.
+You can install them by typing these in the command line :-
+- pip install pytube&&pip install pyttsx3 (for Windows or Linux).
+- pip3 install pytube&&pip3 install pyttsx3 (for MacOs).
 
 # Still haven't joined the discord server or subscribed the youtube channel ?
 
